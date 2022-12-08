@@ -19,8 +19,6 @@ def main():
             char = list(intersectionSet2)[0]
 
             print(char)
-            print(len(intersectionSet2))
-            print()
 
             if char.isalpha():
                 if char.isupper():
